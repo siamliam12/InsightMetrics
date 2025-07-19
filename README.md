@@ -223,3 +223,6 @@
 
 ---
 
+### TODO: During development
+---------------------------------
+1. The navbar always shows the same navigation links, change it so it is custom to each user user.
